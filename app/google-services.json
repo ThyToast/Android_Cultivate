@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "671427723521",
+    "firebase_url": "https://cultivate-db223.firebaseio.com",
+    "project_id": "cultivate-db223",
+    "storage_bucket": "cultivate-db223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671427723521:android:fa987c0a39a50855591b00",
+        "android_client_info": {
+          "package_name": "com.example.cultivate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671427723521-25t577e5r7atvjisnf67u4rkglqjavv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cultivate",
+            "certificate_hash": "dbc5d351e24253a5ea360cbaee6543c22a52937e"
+          }
+        },
+        {
+          "client_id": "671427723521-me716erfra5gunqombch7adfoc5jl64o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7Yuwu4QRIFizbBbPhMnYvwAZcVMpqYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671427723521-me716erfra5gunqombch7adfoc5jl64o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
